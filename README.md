@@ -31,21 +31,21 @@ Three state-of-the-art object detection architectures were evaluated:
 ## **Design 1 — YOLOv8**
 A single-stage detector optimized for speed and accuracy. YOLOv8 demonstrated strong multiscale detection capability and efficient inference, making it highly suitable for real-time applications.
 
-> See `/YOLOv8` for full documentation.
+> See `/Design 1 - YOLOv8` for full documentation.
 
 ---
 
 ## **Design 2 — Faster R-CNN**
 A two-stage detector known for precise localization and high detection accuracy. While computationally intensive, it provides reliable predictions for small and subtle thermal defects.
 
-> See `/FasterRCNN` for full documentation.
+> See `/Design 2 - Faster R-CNN` for full documentation.
 
 ---
 
 ## **Design 3 — RT-DETR**
 A transformer-based architecture designed for real-time object detection. RT-DETR combines global context modeling with efficient feature encoding to achieve a balance between precision and speed.
 
-> See `/RT-DETR` for full documentation.
+> See `/Design 3 - RT-DETR` for full documentation.
 
 ---
 
