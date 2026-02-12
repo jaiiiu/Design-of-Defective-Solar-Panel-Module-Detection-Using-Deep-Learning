@@ -1,6 +1,6 @@
 # Deep Learning-Based Defective Solar Panel Module Detection
 
-This repository documents the model design, evaluation, and selection process for our design project called "Design of Defective Module Detection for Solar Panel Thermography Analysis System using Deep Learning".
+This repository documents the model design, evaluation, and selection process for our design project called **"Design of Defective Module Detection for Solar Panel Thermography Analysis System using Deep Learning"**.
 
 The project explores multiple object detection architectures to determine the most reliable solution under realistic engineering constraints. Each design is thoroughly documented with training workflows, configurations, and evaluation results to ensure transparency in the decision-making process.
 
