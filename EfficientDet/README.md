@@ -43,7 +43,7 @@ The EfficientDet D4 evaluation was **cancelled before completion**. My decision 
 - Prior EfficientDet evaluations (D0–D3) showed **unsatisfactory performance**
 - Larger model size did not translate to better detection accuracy
 - The D4 model required **significantly longer training time**
-- It was assumed that the results would be similarly underwhelming and not worth the additional computational cost
+- I assumed that the results would be similarly underwhelming and not worth the additional computational cost
 
 ## Outcome
 
